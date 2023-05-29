@@ -1,3 +1,29 @@
 {  
-  "trade_offer_access_token":"sYHqHuvW"
+  "newversion":true,
+  "version":4,
+  "me":{  
+    "assets":[  
+      {
+        "appid": 730,
+        "contextid": "2",
+        "assetid": "29874291440",
+        "classid": "1703410694",
+        "instanceid": "188530139",
+        "amount": "1"
+      }
+    ],
+    "currency":[  
+
+    ],
+    "ready":false
+  },
+  "them":{  
+    "assets":[  
+
+    ],
+    "currency":[  
+
+    ],
+    "ready":false
+  }
 }
